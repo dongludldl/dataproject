@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "dong"
 date: "14 May 2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
